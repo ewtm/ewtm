@@ -80,9 +80,9 @@ I'm FullStack Developer with 7 years professional experience in software develop
 
 <br clear="both">
 <!--
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
--->
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
